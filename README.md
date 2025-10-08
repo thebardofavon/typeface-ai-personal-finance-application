@@ -8,6 +8,9 @@ Here's a quick look at how the application works:
 
 [Click Here to watch the demo video](https://www.youtube.com/watch?v=1qld9ebNSKo)
 
+[![Personal Finance Assistant Demo](frontend/src/assets/demo-thumbnail.png)](https://www.youtube.com/watch?v=1qld9ebNSKo)
+
+
 ## Project Structure
 
 The project is divided into two main parts:
@@ -85,8 +88,14 @@ This application features an intelligent AI assistant to help you manage your fi
 
 Here are some screenshots of the application:
 
-![Chat Interface](path/to/your/chat-interface.png)
+![Chat Interface](frontend/src/assets/chat_interface_1.png)
 *The main chat interface where you can interact with the AI assistant.*
+
+![Chat Interface](frontend/src/assets/chat_int_2.png)
+
+![Chat Interface](frontend/src/assets/chat_int_3.png)
+
+
 
 
 
