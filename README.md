@@ -16,7 +16,7 @@ Here's a quick look at how the application works:
 The project is divided into two main parts:
 
 -   `frontend/`: A React application built with Vite that provides the user interface.
--   `backend/`: A Node.js and Express server that handles the application logic, database interactions, and communication with the Google Generative AI API.
+-   `backend/`: A Node.js and Express server that handles the application logic, database interactions, and communication with the Google AI Studio API.
 
 ## Prerequisites
 
@@ -86,14 +86,21 @@ This application features an intelligent AI assistant to help you manage your fi
 
 ## Screenshots
 
-Here are some screenshots of the application:
+Here are some screenshots of the AI component of the application:
 
 ![Chat Interface](frontend/src/assets/chat_interface_1.png)
 *The main chat interface where you can interact with the AI assistant.*
 
-![Chat Interface](frontend/src/assets/chat_int_2.png)
-
-![Chat Interface](frontend/src/assets/chat_int_3.png)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="frontend/src/assets/chat_int_2.png" alt="Chat Interface" width="100%">
+    </td>
+    <td width="50%">
+      <img src="frontend/src/assets/chat_int_3.png" alt="Chat Interface" width="100%">
+    </td>
+  </tr>
+</table>
 
 
 
