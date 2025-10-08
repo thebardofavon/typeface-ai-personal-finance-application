@@ -102,6 +102,28 @@ Here are some screenshots of the AI component of the application:
   </tr>
 </table>
 
+### Additional Screenshots
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="frontend/src/assets/transactions/1.png" alt="Screenshot 3" width="100%">
+    </td>
+    <td width="50%">
+      <img src="frontend/src/assets/transactions/2.png" alt="Screenshot 4" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="frontend/src/assets/transactions/3.png" alt="Screenshot 5" width="100%">
+    </td>
+    <td width="50%">
+      <img src="frontend/src/assets/transactions/4.png" alt="Screenshot 6" width="100%">
+    </td>
+  </tr>
+</table>
+
+
 
 
 
